@@ -15,8 +15,6 @@ A React Native mobile application that bridges the gap between athletes and thei
 - **💝 Mood Tracking** - Monitor athlete's emotional well-being and patterns
 - **📈 Progress Overview** - See completion rates and training statistics
 - **📱 Live Activity Feed** - Real-time updates on athlete's training activities
-- **Dashboard**: Dashboard terpisah untuk atlet dan partner
-- **Multi-platform**: Mendukung Android dan iOS
 
 ## 🏗️ Struktur Project
 
@@ -254,3 +252,7 @@ Distributed under the MIT License. See `LICENSE` for more information.
 ## 📞 Support
 
 Jika ada masalah atau pertanyaan, silakan buat issue di repository ini.
+=======
+# AthleteSync
+A React Native mobile app that connects athletes with their partners for real-time health monitoring, mood tracking, and training schedule management. Features include schedule sync, mood logs, and partner dashboard.
+>>>>>>> f4a24f4cee05a4f1362866f94c69846974984b64
